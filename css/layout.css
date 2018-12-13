@@ -1,0 +1,28 @@
+/*layout.css*/
+body{
+	font-family:"ËÎÌו";
+	margin:0;
+    }
+#container{
+	margin:auto;
+	width:1000px;}
+#header{
+	height:100px;
+	background:#999999;
+
+	margin-bottom:5px;
+	}
+#mainContent{
+	margin-bottom:5px;}
+#sidebar{
+	float:left;
+	width:255px;
+	height:515px;
+	font-size:34px;
+	background:#999999;}
+#content{
+	float:right;
+	width:740px;
+	height:515px;
+	font-size:20px;
+	background:#999999;}
